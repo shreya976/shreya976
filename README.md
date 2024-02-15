@@ -1,14 +1,5 @@
 ### Hi there 👋
 
----
-permalink: /
-title: "Shreyas Deshmukh"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---- 
  
 
 I am a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of [Dr. Saudeep Deb](https://soudeepd.github.io/). Here, I have worked on developing novel methodologies for predicting disease outbreaks and evaluating them using experimental and simulation approaches. Currently, I am focused on quantile autoregression and its efficiency in predicting higher values in time series data. 
